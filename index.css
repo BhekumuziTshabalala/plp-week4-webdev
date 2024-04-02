@@ -1,0 +1,29 @@
+.box{
+    text-align: center;
+    padding: 50px;
+    border: solid 1px;
+    margin: 2px;
+
+}
+.header{
+    
+    background-color: rgba(3, 88, 60, 0.792);
+}
+
+.introduction{
+    background-color: rgba(18, 81, 60, 0.589);;
+}
+.skills{
+    background-color:chocolate
+}
+
+li {
+    padding: 5px;
+    border: 1px solid ;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+.contact{
+    background-color: rgba(210, 105, 30, 0.574);
+}
